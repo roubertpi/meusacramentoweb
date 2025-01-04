@@ -1,0 +1,405 @@
+[
+  {
+    "name": "Santo Agostinho",
+    "feastDay": "28 de agosto",
+    "description": "Teólogo e filósofo, um dos Padres da Igreja.",
+    "birthplace": "Tagaste, Numídia",
+    "canonizationYear": "",
+    "photoUrl": "https://s4.static.brasilescola.uol.com.br/be/2020/09/santo-agostinho-por-philippe-de-champaigne.jpg"
+  },
+  {
+    "name": "Santa Teresa de Ávila",
+    "feastDay": "15 de outubro",
+    "description": "Reformadora do Carmelo e mística cristã.",
+    "birthplace": "Ávila, Espanha",
+    "canonizationYear": "1622",
+    "photoUrl": "https://cruzterrasanta.com.br/_global/_ssf/ssf.aspx?d=/_upload/significados_de_santos/&arquivo=santa-tereza-avilajpg926062013153748.jpg"
+  },
+  {
+    "name": "São Francisco de Assis",
+    "feastDay": "4 de outubro",
+    "description": "Fundador da Ordem Franciscana, conhecido pelo amor à natureza.",
+    "birthplace": "Assis, Itália",
+    "canonizationYear": "1228",
+    "photoUrl": "https://fundacaonazare.com.br/wp-content/uploads/2021/01/sao-francisco-de-assis-l.jpg"
+  },
+  {
+    "name": "São Tomás de Aquino",
+    "feastDay": "28 de janeiro",
+    "description": "Teólogo e Doutor da Igreja.",
+    "birthplace": "Roccasecca, Itália",
+    "canonizationYear": "1323",
+    "photoUrl": "https://calendar.utulsa.edu/wp-content/uploads/sites/32/2023/12/aquinas-image.jpg"
+  },
+  {
+    "name": "Santa Clara de Assis",
+    "feastDay": "11 de agosto",
+    "description": "Fundadora da Ordem das Clarissas.",
+    "birthplace": "Assis, Itália",
+    "canonizationYear": "1255",
+    "photoUrl": "https://img.cancaonova.com/cnimages/canais/uploads/sites/2/2022/08/1108-santa_clara.jpg"
+  },
+
+  
+  {
+    "name": "São João Paulo II",
+    "feastDay": "22 de outubro",
+    "description": "Papa e defensor da dignidade humana.",
+    "birthplace": "Wadowice, Polônia",
+    "canonizationYear": "2014",
+    "photoUrl": "https://www.cnbb.org.br/wp-content/uploads/2020/05/JPII_Destaque.jpg"
+  },
+  {
+    "name": "Santa Teresinha do Menino Jesus",
+    "feastDay": "1 de outubro",
+    "description": "Patrona das missões e Doutora da Igreja.",
+    "birthplace": "Alençon, França",
+    "canonizationYear": "1925",
+    "photoUrl": "https://santuariosantapaulina.org.br/wp-content/uploads/2024/09/Santa-Terezinha-do-Menino-Jesus-2.jpg"
+  },
+  {
+    "name": "São Padre Pio",
+    "feastDay": "23 de setembro",
+    "description": "Estigmatizado e confessor dedicado.",
+    "birthplace": "Pietrelcina, Itália",
+    "canonizationYear": "2002",
+    "photoUrl": "https://igrejadoscapuchinhos.org.br/wp-content/uploads/8f141d5938f33f31a82b76d15f13559c.jpg"
+  },
+  {
+    "name": "Santa Faustina Kowalska",
+    "feastDay": "5 de outubro",
+    "description": "Apóstola da Divina Misericórdia.",
+    "birthplace": "Głogowiec, Polônia",
+    "canonizationYear": "2000",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/200px-Faustina.jpg/640px-200px-Faustina.jpg"
+  },
+  {
+    "name": "São Bento",
+    "feastDay": "11 de julho",
+    "description": "Patrono da Europa e fundador do monaquismo ocidental.",
+    "birthplace": "Núrsia, Itália",
+    "canonizationYear": "séc. VI",
+    "photoUrl": "https://www.diocesesaocarlos.org.br/wp-content/uploads/2024/07/1920x1080-1-960x540.jpg"
+  },
+  {
+    "name": "São José",
+    "feastDay": "19 de março",
+    "description": "Patrono universal da Igreja e pai adotivo de Jesus.",
+    "birthplace": "Belém, Israel",
+    "canonizationYear": "Culto antigo",
+    "photoUrl": "https://santacruzbr.com.br/wp-content/uploads/2022/03/Novena-de-Sao-Jose2-Copia.jpg"
+  },
+  {
+    "name": "Santa Catarina de Sena",
+    "feastDay": "29 de abril",
+    "description": "Mística, Doutora da Igreja e co-patrona da Europa.",
+    "birthplace": "Siena, Itália",
+    "canonizationYear": "1461",
+    "photoUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgu9RRO9x2v4bU2joAhf1fU9GxLc8gaPw1MteWrA_l_prg-MwxHeu9Cm4hStMlk_DaVDXuc32rjY1LokRH0NOLfWB4YgFI_L93xx607uuXmYQh8KFaas7I7IYVFiTNkEOVjpvzDnK4CqxAH/s1600/Santa+Catarina+de+Sena.jpg"
+  },
+  {
+    "name": "São Domingos de Gusmão",
+    "feastDay": "8 de agosto",
+    "description": "Fundador da Ordem dos Pregadores (Dominicanos).",
+    "birthplace": "Caleruega, Espanha",
+    "canonizationYear": "1234",
+    "photoUrl": "https://img.cancaonova.com/cnimages/canais/uploads/sites/2/2022/08/santododia.jpg"
+  },
+  {
+    "name": "Santa Bernadette Soubirous",
+    "feastDay": "16 de abril",
+    "description": "Vidente de Nossa Senhora de Lourdes.",
+    "birthplace": "Lourdes, França",
+    "canonizationYear": "1933",
+    "photoUrl": "https://aventurasnahistoria.com.br/media/uploads/lurd_13185130940-19896400.jpgg"
+  },
+  {
+    "name": "São Martinho de Lima",
+    "feastDay": "3 de novembro",
+    "description": "Patrono da justiça social e dos barqueiros.",
+    "birthplace": "Lima, Peru",
+    "canonizationYear": "1671",
+    "photoUrl": "https://img.cancaonova.com/cnimages/canais/uploads/sites/2/2022/11/S%C3%A3o-Martinho-de-Lima-300-x-300.jpg.jpg"
+  },
+  {
+    "name": "Santa Edith Stein",
+    "feastDay": "9 de agosto",
+    "description": "Filósofa, mártir e co-patrona da Europa.",
+    "birthplace": "Breslávia, Polônia",
+    "canonizationYear": "1998",
+    "photoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5TERrUw0fwy4yjkPt5ubxebqHpQo6o6VPIw&s"
+  },
+  {
+    "name": "São José de Anchieta",
+    "feastDay": "9 de junho",
+    "description": "Apóstolo do Brasil e missionário jesuíta.",
+    "birthplace": "Tenerife, Espanha",
+    "canonizationYear": "2014",
+    "photoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbKz5g4eCphOkDXEdWGFYo1vaLSY_O-SXWzA&s"
+  },
+  {
+    "name": "São Francisco de Sales",
+    "feastDay": "24 de janeiro",
+    "description": "Bispo e Doutor da Igreja, conhecido pela sua espiritualidade e pela pregação do amor e da humildade.",
+    "birthplace": "Sales, França",
+    "canonizationYear": "1665",
+    "photoUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2edMGDo6pxBJLQ9ACJC4qmTebFgU6Umh_wHdgGYZmpC3dBkK5KVFkIFNvgzNheO0LpB5hUtNUGfYiLrLHsKT44KxOFuAkfLq6Hg4IrkRL0lylsHFipIEjAXxl902Nhid-S02jJg/s1600/St.+Francis+de+Sales+%25283%2529.jpg"
+  },
+  {
+    "name": "São Maximiliano Kolbe",
+    "feastDay": "14 de agosto",
+    "description": "Mártir e sacerdote franciscano polonês, conhecido por sacrificar sua vida para salvar um prisioneiro em Auschwitz.",
+    "birthplace": "Zdunska Wola, Polônia",
+    "canonizationYear": "1982",
+    "photoUrl": "https://youth.rcdow.org.uk/wp-content/uploads/2021/03/Maximilian-Kolbe.jpg"
+  },
+  {
+    "name": "Santa Teresa de Calcutá",
+    "feastDay": "5 de setembro",
+    "description": "Fundadora das Missionárias da Caridade, conhecida pelo trabalho humanitário com os pobres e doentes.",
+    "birthplace": "Skopje, Macedônia",
+    "canonizationYear": "2016",
+    "photoUrl": "https://img.cancaonova.com/cnimages/canais/uploads/sites/2/2022/09/Santa-Teresa-de-Calcut%C3%A1-fundadora-mission%C3%A1ria-e-m%C3%A3e-dos-pobres.jpg"
+  },
+  {
+    "name": "São João Bosco",
+    "feastDay": "31 de janeiro",
+    "description": "Fundador da Congregação Salesiana, conhecido pelo trabalho com jovens e pela promoção da educação.",
+    "birthplace": "Castelnuovo, Itália",
+    "canonizationYear": "1934",
+    "photoUrl": "https://img.cancaonova.com/cnimages/canais/uploads/sites/2/2023/01/S%C3%A3o-Jo%C3%A3o-Bosco-fundador-da-Sociedade-Salesiana.jpg"
+  },
+  
+  {
+    "name": "São Sebastião ",
+    "feastDay": "20 de janeiro",
+    "description": "Mártir cristão, militar romano e padroeiro de diversas cidades e de atletas.",
+    "birthplace": "Nicomédia, Império Romano",
+    "canonizationYear": "Culto desde os primeiros tempos",
+    "photoUrl": "https://www.meiahora.com.br/_midias/jpg/2021/01/19/700x930/1_sao_sebastiao-20997910.jpg"
+  },
+  {
+    "name": "Santa Agatha",
+    "feastDay": "5 de fevereiro",
+    "description": "Mártir cristã e santa padroeira de Catania e das mulheres que sofrem com doenças do seio.",
+    "birthplace": "Catania, Itália",
+    "canonizationYear": "Culto desde os primeiros tempos",
+    "photoUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizoXRG-nqhxRIh6NZw3g-OT0_zqVM9fGfQiBQHJc2CIWQXkyGJ-SLwhPiMf6Hdyt3849xd-ZdZ4Eo5zW4AV0svq1V7KB-oYu864hIMTmhbfWFLPL1RyHkfXpfKFCp5Csm5M2qRLQufnsSz/s400/SAgatha.jpg"
+  },
+  {
+    "name": "São Bernardo de Clairvaux",
+    "feastDay": "20 de agosto",
+    "description": "Abade e Doutor da Igreja, conhecido por seu papel na reforma monástica e na teologia mística.",
+    "birthplace": "Fontaines, França",
+    "canonizationYear": "1174",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Saint_Bernard_Philippe_de_Champaigne_%28d%27apr%C3%A8s%29_Saint_Etienne_du_Mont.jpg/1200px-Saint_Bernard_Philippe_de_Champaigne_%28d%27apr%C3%A8s%29_Saint_Etienne_du_Mont.jpg"
+  },
+  {
+    "name": "São Luís de França",
+    "feastDay": "25 de agosto",
+    "description": "Rei de França, conhecido por seu trabalho na reforma do sistema jurídico e pelas Cruzadas.",
+    "birthplace": "Poissy, França",
+    "canonizationYear": "1297",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Emile_Signol_-_Louis_IX%2C_dit_Saint_Louis%2C_Roi_de_France_%281215-1270%29.jpg/220px-Emile_Signol_-_Louis_IX%2C_dit_Saint_Louis%2C_Roi_de_France_%281215-1270%29.jpg"
+  },
+  {
+    "name": "São Antônio de Pádua",
+    "feastDay": "13 de junho",
+    "description": "Franciscano e pregador, conhecido por suas pregações e milagres.",
+    "birthplace": "Lisboa, Portugal",
+    "canonizationYear": "1232",
+    "photoUrl": "https://cruzterrasanta.com.br/_global/_ssf/ssf.aspx?d=/_upload/significados_de_santos/&arquivo=santo-antoniojpg1372012182121.jpg"
+  },
+  {
+    "name": "Santa Rita de Cássia",
+    "feastDay": "22 de maio",
+    "description": "Mística e monja agostiniana, conhecida por sua vida de oração e sofrimento.",
+    "birthplace": "Cássia, Itália",
+    "canonizationYear": "1900",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/S.Rita_da_Cascia.jpg/300px-S.Rita_da_Cascia.jpg"
+  },
+  
+  {
+    "name": "São Francisco Xavier",
+    "feastDay": "3 de dezembro",
+    "description": "Missionário jesuíta e cofundador da Companhia de Jesus, conhecido por suas missões na Ásia.",
+    "birthplace": "Xavier, Espanha",
+    "canonizationYear": "1610",
+    "photoUrl": "https://img.cancaonova.com/cnimages/canais/uploads/sites/2/2022/12/S%C3%A3o-Francisco-Xavier.jpg"
+  },
+ 
+  {
+    "name": "Santa Cecília",
+    "feastDay": "22 de novembro",
+    "description": "Mártir e padroeira dos músicos, conhecida por sua devoção à música sacra.",
+    "birthplace": "Roma, Itália",
+    "canonizationYear": "Culto antigo",
+    "photoUrl": "https://img.cancaonova.com/cnimages/canais/uploads/sites/2/2022/11/Santa-Cec%C3%ADlia-300x300-1.jpg"
+  },
+  {
+    "name": "Santa Bárbara",
+    "feastDay": "4 de dezembro",
+    "description": "Mártir cristã, conhecida por sua coragem diante da perseguição e sua devoção a Deus.",
+    "birthplace": "Nicomédia, Turquia",
+    "canonizationYear": "Culto antigo",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Francisco_Bayeu_Santa_B%C3%A1rbara.jpg/180px-Francisco_Bayeu_Santa_B%C3%A1rbara.jpg"
+  },
+  {
+    "name": "São Lucas",
+    "feastDay": "18 de outubro",
+    "description": "Evangelista e médico, autor do Evangelho segundo São Lucas e do livro dos Atos dos Apóstolos.",
+    "birthplace": "Antióquia, Síria",
+    "canonizationYear": "Culto antigo",
+    "photoUrl": "https://img.cancaonova.com/cnimages/canais/uploads/sites/2/2022/10/S%C3%A3o-Lucas.jpg"
+  },
+  {
+    "name": "São Felipe Néri",
+    "feastDay": "26 de maio",
+    "description": "Fundador da Congregação do Oratório, conhecido por sua alegria e espírito de oração.",
+    "birthplace": "Florença, Itália",
+    "canonizationYear": "1622",
+    "photoUrl": "https://img.cancaonova.com/cnimages/canais/uploads/sites/2/2023/05/507-o-pentecostes-de-sao-filipe-neri-frame-300x169-1.jpg"
+  },
+  {
+    "name": "São Joaquim",
+    "feastDay": "16 de agosto",
+    "description": "Pai de Maria, avô de Jesus, tradicionalmente considerado santo e venerado na Igreja Católica.",
+    "birthplace": "Israel",
+    "canonizationYear": "Culto antigo",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Santi_gioacchino_e_anna.jpg"
+  },
+  {
+    "name": "Santa Ana",
+    "feastDay": "26 de julho",
+    "description": "Mãe de Maria e avó de Jesus, venerada por sua santidade e exemplo de fé.",
+    "birthplace": "Israel",
+    "canonizationYear": "Culto antigo",
+    "photoUrl": "https://www.dioceseprocopense.org.br/files/post/foto/872/santaana.jpg"
+  },
+  {
+    "name": "São Tarcísio",
+    "feastDay": "15 de agosto",
+    "description": "Mártir cristão, conhecido por sua coragem ao proteger a Eucaristia durante a perseguição romana.",
+    "birthplace": "Roma, Itália",
+    "canonizationYear": "Culto antigo",
+    "photoUrl": "https://cdn.conventodapenha.org.br/wp-content/uploads/2019/08/04110951/s%C3%A3o-tarc%C3%ADsio-739x1024.jpg"
+  },
+  {
+    "name": "São Vicente de Paulo",
+    "feastDay": "27 de setembro",
+    "description": "Fundador da Congregação da Missão e das Filhas da Caridade, conhecido por sua dedicação aos pobres.",
+    "birthplace": "Pouy, França",
+    "canonizationYear": "1737",
+    "photoUrl": "https://img.cancaonova.com/cnimages/canais/uploads/sites/2/2022/09/S%C3%A3o-Vicente-de-Paulo.jpg"
+  },
+  
+  {
+    "name": "Santa Maria Goretti",
+    "feastDay": "6 de julho",
+    "description": "Mártir, conhecida por sua pureza e perdão ao agressor.",
+    "birthplace": "Corinaldo, Itália",
+    "canonizationYear": "1950",
+    "photoUrl": "https://diocesedeamparo.org.br/wp-content/uploads/2016/07/Santa-Maria-Goretti.jpg"
+  },
+  {
+    "name": "São Ricardo Pampuri",
+    "feastDay": "1 de maio",
+    "description": "Médico italiano, conhecido por sua vida de oração e trabalho dedicado aos doentes.",
+    "birthplace": "Cremona, Itália",
+    "canonizationYear": "1989",
+    "photoUrl": "https://www.pbcm.org.br/imagens/060620-fQiLsnucTzh48.jpeg"
+  },
+  {
+    "name": "São Alberto Magno",
+    "feastDay": "15 de novembro",
+    "description": "Teólogo e filósofo alemão, conhecido por sua contribuição ao pensamento escolástico e pela sua santidade.",
+    "birthplace": "Lauingen, Alemanha",
+    "canonizationYear": "1931",
+    "photoUrl": "https://img.cancaonova.com/cnimages/canais/uploads/sites/2/2022/11/santododia-Santo-Alberto-Magno-300x300-1.jpg"
+  },
+  {
+    "name": "São João Evangelista",
+    "feastDay": "27 de dezembro",
+    "description": "Apóstolo e evangelista, autor do Evangelho de João e do Apocalipse, um dos principais discípulos de Jesus.",
+    "birthplace": "Betsaida, Galileia",
+    "canonizationYear": "Culto antigo",
+    "photoUrl": "https://img.cancaonova.com/cnimages/canais/uploads/sites/2/2022/12/S%C3%A3o-Jo%C3%A3o-Evangelista.jpg"
+  },
+  {
+    "name": "São Judas Tadeu",
+    "feastDay": "28 de outubro",
+    "description": "Apóstolo de Jesus, conhecido como o santo das causas impossíveis e como irmão de Tiago.",
+    "birthplace": "Galileia",
+    "canonizationYear": "Culto antigo",
+    "photoUrl": "https://cruzterrasanta.com.br/_global/_ssf/ssf.aspx?d=/_upload/significados_de_santos/&arquivo=sao-judas-tadeujpg2572012183744.jpg"
+  },
+  {
+    "name": "São Pedro",
+    "feastDay": "29 de junho",
+    "description": "Apóstolo de Jesus, considerado o primeiro papa e líder da Igreja Cristã primitiva.",
+    "birthplace": "Betsaida, Galileia",
+    "canonizationYear": "Culto antigo",
+    "photoUrl": "https://cruzterrasanta.com.br/_global/_ssf/ssf.aspx?d=/_upload/significados_de_santos/&arquivo=sig-sao-pedrojpg807112013190646.jpg"
+  },
+  {
+    "name": "São Paulo Apóstolo",
+    "feastDay": "29 de junho",
+    "description": "Apóstolo de Jesus e um dos maiores pregadores do cristianismo, conhecido por suas viagens missionárias e epístolas.",
+    "birthplace": "Tarso, Cilícia",
+    "canonizationYear": "Culto antigo",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/79/Giovanni_Francesco_Barbieri_-_Saint_Paul.jpg"
+  },
+  
+  {
+    "name": "São Bartolomeu",
+    "feastDay": "24 de agosto",
+    "description": "Apóstolo de Jesus, conhecido por sua firmeza na fé e por ser um dos primeiros discípulos a ser chamado por Jesus.",
+    "birthplace": "Caná da Galileia",
+    "canonizationYear": "Culto antigo",
+    "photoUrl": "https://cdn.conventodapenha.org.br/wp-content/uploads/2018/08/04154050/Bartolomeu.jpg"
+  },
+  
+  {
+    "name": "São Mateus",
+    "feastDay": "21 de setembro",
+    "description": "Apóstolo e evangelista, autor do Evangelho de Mateus e um dos doze apóstolos de Jesus.",
+    "birthplace": "Cafarnaum, Galileia",
+    "canonizationYear": "Culto antigo",
+    "photoUrl": "https://cruzterrasanta.com.br/_global/_ssf/ssf.aspx?d=/_upload/significados_de_santos/&arquivo=20230814162958-HIS-sao-matheus_600.jpg"
+  },
+  {
+    "name": "Santa Isabel de Hungria",
+    "feastDay": "17 de novembro",
+    "description": "Rainha húngara, conhecida por sua bondade e caridade, dedicando sua vida ao serviço dos pobres.",
+    "birthplace": "Áustria",
+    "canonizationYear": "1235",
+    "photoUrl": "https://img.cancaonova.com/cnimages/canais/uploads/sites/2/2022/11/Santa-Isabel-da-Hungria-300x300-1.jpg"
+  },
+
+  
+  {
+    "name": "São João Crisóstomo",
+    "feastDay": "13 de setembro",
+    "description": "Arcebispo de Constantinopla e doutor da Igreja, conhecido por sua eloquência na pregação.",
+    "birthplace": "Antioquia, Síria",
+    "canonizationYear": "Culto antigo",
+    "photoUrl": "https://img.cancaonova.com/cnimages/canais/uploads/sites/2/2022/09/13-S%C3%A3o-Jo%C3%A3o-Cris%C3%B3stomo-2.jpg"
+  },
+  
+  {
+    "name": "São José Maria Escrivá",
+    "feastDay": "26 de junho",
+    "description": "Fundador do Opus Dei, conhecido por sua ênfase na santificação do trabalho diário.",
+    "birthplace": "Barbastro, Espanha",
+    "canonizationYear": "2002",
+    "photoUrl": "https://img.cancaonova.com/cnimages/canais/uploads/sites/2/2022/06/san-jose-maria-escriba-de-balaguer.jpg"
+  },
+  {
+      "name": "Santa Joana D'Arc",
+      "feastDay": "30 de maio",
+      "description": "Mártir francesa, heroína nacional e santa, conhecida por sua liderança nas batalhas durante a Guerra dos Cem Anos.",
+      "birthplace": "Domrémy, França",
+      "canonizationYear": "1920",
+      "photoUrl": "https://img.cancaonova.com/cnimages/canais/uploads/sites/2/2023/05/Joan_Of_Arc-2-295x400-221x300-1.jpg"
+  }
+]
